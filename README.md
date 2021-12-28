@@ -1,24 +1,6 @@
-# README
+# Railsfriends
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the simple CRUD-based application created with Ruby on rails.
+This project is created with help of [Learn Ruby on Rails - Full Course by freeCodeCamp.org](https://www.youtube.com/watch?v=fmyvWz5TUWg&t=215s).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks.
