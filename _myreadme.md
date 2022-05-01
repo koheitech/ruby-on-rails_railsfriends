@@ -1,0 +1,1 @@
+[ruby-on-rails_freecodecamp_railsfriends](inkdrop://note/eOrfyLjph)
